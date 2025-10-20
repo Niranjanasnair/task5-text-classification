@@ -84,19 +84,18 @@ The model successfully classified complaints into their respective categories.
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Results
 
-All screenshots include **system date/time** and **name (Niranjana S)** as per submission requirements.
+| Step | Description | Screenshot |
+|------|--------------|-------------|
+| 1 | Uploading Kaggle API Token | ![Kaggle Token](images/01_kaggle_token.png) |
+| 2 | Importing Dataset | ![Import Dataset](images/02_import_dataset.png) |
+| 3 | Unzipped Dataset | ![Unzipped Dataset](images/03_unzipped_dataset.png) |
+| 4 | DataFrame Columns | ![Columns Output](images/04_columns_output.png) |
+| 5 | Cleaned Data Sample | ![Cleaned Text](images/05_clean_text_sample.png) |
+| 6 | Confusion Matrix (Linear SVM) | ![Confusion Matrix](images/06_confusion_matrix_svm.png) |
+| 7 | Model Prediction Output (3 Complaints Example) | ![Prediction Output](images/07_prediction_output.png) |
 
-| Step | Description | File |
-|------|--------------|------|
-| 1 | Uploading Kaggle API Token | `images/01_kaggle_token.png` |
-| 2 | Importing Dataset | `images/02_import_dataset.png` |
-| 3 | Unzipped Dataset | `images/03_unzipped_dataset.png` |
-| 4 | Dataframe Columns | `images/04_columns_output.png` |
-| 5 | Cleaned Data Sample | `images/05_clean_text_sample.png` |
-| 6 | Confusion Matrix (Linear SVM) | `images/06_confusion_matrix_svm.png` |
-| 7 | Model Prediction Output (3 Complaints Example) | `images/07_prediction_output.png` |
 
 ---
 
